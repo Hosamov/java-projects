@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../Web Projects"
+		},
+		{
+			"path": "../Treehouse/FSJS Techdegree"
+		},
+		{
+			"path": "../master electronjs"
+		},
+		{
+			"path": "../Electron Projects"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Web Dev"
+		},
+		{
+			"path": "../Headfirst Java"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Special Projects",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
